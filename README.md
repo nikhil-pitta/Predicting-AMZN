@@ -1,4 +1,5 @@
-# Using Sentiment Analysis to determine a correlation between Amazon stock prices and product reviews
+# Predicting $AMZN with Product Reviews
+Using Sentiment Analysis to determine a correlation between Amazon stock prices and product reviews
 
 Presentation: https://docs.google.com/presentation/d/1QZtjymPqnNy_sGf3v1zoxwtoZn7Ocx4IQQDrTLEioZo/edit#slide=id.p
 
